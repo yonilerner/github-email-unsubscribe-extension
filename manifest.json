@@ -17,8 +17,8 @@
   "commands": {
     "click": {
       "suggested_key": {
-        "default": "Ctrl+U",
-        "mac": "Command+U"
+        "default": "Ctrl+E",
+        "mac": "Command+E"
       },
       "description": "Click on the PR link"
     }
